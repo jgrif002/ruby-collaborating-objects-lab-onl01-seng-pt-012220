@@ -13,4 +13,8 @@ class Song
     @@all 
   end 
   
+  def self.new_by_file_name 
+    
+  end 
+  
 end 
