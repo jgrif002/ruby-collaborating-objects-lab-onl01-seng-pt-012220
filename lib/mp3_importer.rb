@@ -1,6 +1,6 @@
 #require 'pry'
 
-class Mp3_importer 
+class MP3Importer 
   attr_accessor :path 
   @@all = []
   
